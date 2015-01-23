@@ -1,0 +1,11 @@
+[MSST '14] Anode: Empirical Detection of Performance Problems in Storage Systems using Time-Series Analysis of Periodic Measurements. Vipul Mathur, Cijo George and Jayanta Basak
+
+[FAST '13] Gecko: Contention-Oblivious Disk Arrays for Cloud Storage. Ji Yong Shin, Mahesh Balakrishnan, Tudor Marian, Hakim Weatherspoon
+
+[PDSW '08] Comparing Performance of Solid State Devices and Mechanical Disks. Milo Polte, Jiri Simsa, Garth Gibson 
+
+[CACM '13] The tail at scale. Jeffrey Dean, Luiz Andr茅 Barroso
+
+[NSDI '12] PACMan: Coordinated Memory Caching for Parallel Jobs. 
+
+[SoCC '14] Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency. 
